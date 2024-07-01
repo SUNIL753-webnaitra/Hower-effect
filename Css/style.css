@@ -109,3 +109,25 @@
   
    
 }
+
+.btn7{
+    padding: 10px 15px;
+    background-color: rgb(104, 66, 207);
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border:none;
+    transition: 0.3s ease-in;
+    
+  
+   
+}
+.btn7:hover{
+   background-color: #fff;
+   color: #000;
+    transition: 0.3s;
+    border: 1px solid #635e5e;
+  
+   
+}
