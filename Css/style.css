@@ -90,3 +90,22 @@
   box-shadow: 5px 5px 10px rgb(215, 233, 111);
    
 }
+
+.btn6{
+    padding: 10px 15px;
+    background-color: rgb(66, 207, 85);
+    border-radius: 8px;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border:none;
+    transition: 0.3s;
+  
+   
+}
+.btn6:hover{
+   box-shadow: 5px 5px #000;
+    transition: 0.3s;
+  
+   
+}
